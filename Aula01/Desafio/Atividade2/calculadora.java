@@ -1,4 +1,4 @@
-package Aula01.Desafio.Segundo;
+package Aula01.Desafio.Atividade2;
 
 public class calculadora {
 

@@ -1,4 +1,4 @@
-package Aula01.Desafio.Primeiro;
+package Aula01.Desafio.Atividade1;
 
 public class pessoa {
     String frase = "Olá mundo!";
