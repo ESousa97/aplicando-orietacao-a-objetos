@@ -29,20 +29,20 @@
 
 ---
 
-8. Crie uma classe `Inversor` com um método que recebe uma **string** como parâmetro e retorna a string invertida. *(Exemplo: `"Java"` → `"avaJ"`)*
+8. Crie uma classe `Lampada` com um método que exibe no console: A lâmpada está acesa!
 
 ---
 
-9. Crie uma classe `ParOuImpar` com um método que recebe um número inteiro e exibe no console se ele é **par** ou **ímpar**.
+9. Crie uma classe `Retangulo` com um método que recebe dois números como parâmetros (base e altura) e retorna o valor da área (base × altura).
 
 ---
 
-10. Crie uma classe `Fatorial` com um método que recebe um número inteiro e retorna o fatorial dele. *(Exemplo: 5 → 120)*
+10. Crie uma classe `Cachorro` com um método que exibe no console: O cachorro está latindo!
 
 ---
 
-11. Crie uma classe `Primo` com um método que recebe um número inteiro e retorna se ele é **primo** ou não.
+11. Crie uma classe `Quadrado` com um método que recebe o valor do lado como parâmetro e retorna o valor do perímetro (4 × lado).
 
 ---
 
-12. Crie uma classe `Contador` com um método que recebe um número inteiro `n` e imprime no console uma contagem regressiva de `n` até 0.
+12. Crie uma classe `Pessoa` com um método que recebe um nome como parâmetro e exibe no console: Olá! Seja bem-vindo.
