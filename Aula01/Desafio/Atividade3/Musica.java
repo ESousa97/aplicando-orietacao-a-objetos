@@ -4,8 +4,6 @@ public class Musica {
     String titulo;
     String artista;
     int anoLancamento;
-    double avaliacao;
-    int numAvaliacoes;
 
     private double somaDasAvaliacoes;
     private int totalDeAvaliacoes;

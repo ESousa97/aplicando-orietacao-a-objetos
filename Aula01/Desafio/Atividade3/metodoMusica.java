@@ -1,6 +1,6 @@
 package Aula01.Desafio.Atividade3;
 
-public class metodoMusica {
+public class MetodoMusica {
     public static void main(String[] args) {
         Musica musica = new Musica();
 
